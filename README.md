@@ -1,50 +1,84 @@
-# Work-On-PowerBI
-A collection of Power BI dashboards engineered by me, featuring complex DAX calculations, optimized data models, and M-powered data transformations. This repo highlights my proficiency in ETL, KPI visualization, drill-through design, and interactive report building.
+# Power BI Portfolio — Vrushabh Patil
 
-Power BI Portfolio – By Me
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square)
 
-📁 Welcome to my Power BI portfolio repository. This collection highlights my work in designing and developing interactive dashboards and insightful visual reports. With a strong foundation in data modeling, DAX, and Power Query, I transform raw datasets into impactful visual stories that drive data-informed decisions.
+---
 
-📌 About This Repository
+## About
 
-This repository serves as a centralized showcase of my Power BI skills, where I’ve applied analytical thinking and visualization techniques to create dashboards that are not just informative but intuitive and visually compelling.
+I'm **Vrushabh Patil**, a Data Analytics and Business Intelligence enthusiast focused on building interactive, business-driven dashboards with Power BI. This portfolio showcases end-to-end projects covering data modeling, DAX, Power Query, and dashboard design.
 
-Each report is crafted with:
-🔄 Data transformation using Power Query (M Language)
-📐 Robust data models and defined relationships
-🧠 Custom calculations using DAX
-🎨 Clean, user-friendly report layouts
-🧭 Interactive elements like slicers, drill-throughs, bookmarks, and dynamic KPIs
+---
 
-🛠️ Key Skills Demonstrated
-| Category             | Skills & Tools Used                                                        |
-| -------------------- | -------------------------------------------------------------------------- |
-| 🧹 Data Preparation  | Power Query (M Language), Data Cleaning, Merging, Transformation Pipelines |
-| 🧱 Data Modeling     | Star Schemas, Relationships, Hierarchies, Calculated Columns & Measures    |
-| 🔢 Calculations      | DAX (CALCULATE, FILTER, SWITCH, RANKX, VAR, TIME INTELLIGENCE FUNCTIONS)   |
-| 📊 Visualization     | Slicers, Custom Tooltips, Bookmarks, Drill-throughs, Dynamic Visuals       |
-| 🎯 Design Principles | UX/UI for BI, Color Theory, Theming, Layout Organization                   |
-| ⚙️ Interactivity     | Sync Slicers, Buttons, Dynamic Pages, Navigation Features                  |
+## Skills
 
-📈 Why Power BI?
+| Area | Tools & Technologies |
+|---|---|
+| Visualization | Power BI, KPI Cards, Dynamic Visuals |
+| Data Analysis | DAX, Measures, Calculated Columns |
+| Data Transformation | Power Query (M Language), ETL Pipelines |
+| Data Modeling | Star Schema, Relationships, Hierarchies |
+| Databases | SQL, MySQL |
+| Reporting | Drill-throughs, Interactive Dashboards |
+| UI/UX | Dashboard Layouts, Themes, Navigation |
+| Optimization | DAX Studio, Performance Tuning |
 
-Power BI empowers professionals to create real-time, interactive data visualizations with ease. It allows me to:
-🚀 Build end-to-end BI solutions
-📖 Translate complex data into digestible visual narratives
-🧩 Empower stakeholders with self-service analytics
+---
 
-⚙️ How to Use
+## Projects
 
-1️⃣ Clone or download this repository
-2️⃣ Open any .pbix file using Power BI Desktop
-3️⃣ If prompted, re-map the data source location to the provided dataset in the same folder
-4️⃣ Explore, interact, and modify the dashboards as needed
+### Student Spend Analysis Dashboard
+Analyzes student spending behavior and identifies major expense patterns.
+- Dynamic KPI cards and category-wise expense tracking
+- Interactive slicers, filters, and trend analysis
 
-📬 Let's Connect
+**Skills:** Power BI · DAX · Power Query · Data Modeling
 
-💼LinkedIn: https://www.linkedin.com/in/patilvrushabh/
-📧Email: vrushabhpatil97711@gmail.com
+---
 
-📝 “Data is the new oil, but Power BI is the refinery.”
+### Trip Analysis Dashboard
+Visualizes travel trends, destinations, and trip-related insights.
+- Geographic maps and trend visualizations
+- Comparative and interactive filtering
 
-Thank you for visiting. If you find any dashboard helpful or inspiring, feel free to ⭐ star this repository and share your thoughts.
+**Skills:** Power BI · Maps · Data Transformation
+
+---
+
+### Richest People Dashboard
+Analyzes wealth distribution and rankings of top global billionaires.
+- Dynamic ranking visuals and wealth comparisons
+- Interactive filtering across dimensions
+
+**Skills:** Power BI · DAX · Visualization
+
+---
+
+### Game of Thrones Dashboard
+Visual storytelling dashboard built on Game of Thrones data.
+- Character analysis and house comparisons
+- Engaging, theme-driven design
+
+**Skills:** Power BI · Visual Design · Analytics
+
+---
+
+## Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/vrushabh-09/Work-On-PowerBI.git
+```
+
+Open any `.pbix` file in **Power BI Desktop**. If prompted, update the data source paths and refresh the dashboard.
+
+---
+
+## Contact
+
+- **LinkedIn:** [patilvrushabh](https://www.linkedin.com/in/patilvrushabh/)
+- **GitHub:** [vrushabh-09](https://github.com/vrushabh-09)
+- **Email:** vrushabhpatil97711@gmail.com
